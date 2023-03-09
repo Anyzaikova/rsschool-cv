@@ -17,12 +17,12 @@
 
 ----
 ### Skills and Proficiency:
-1.HTML5
-2.CSS
-3.JavaScript (Fundamentals)
-4.Java (Fundamentals)
-5.GitHub
-6.VS Code
+- HTML5
+- CSS
+- JavaScript (Fundamentals)
+- Java (Fundamentals)
+- GitHub
+- VS Code
 
 ----
 ### Code example:
